@@ -1,0 +1,12 @@
+{
+  "name": "Zaraz MC Test",
+  "namespace": "zaraz-mc-test",
+  "description": "A managed component that prints the current date to the console on pageview.",
+  "icon": "assets/icon.svg",
+  "permissions": {
+    "provide_pageviews": {
+      "description": "This permission is used to facilitate better a user experience.",
+      "required": true
+    }
+  }
+}
